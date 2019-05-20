@@ -1,4 +1,4 @@
-# aws-custom-resource-transit-gateway
+# aws-custom-resource-transit-gateway-route
 
 AWS lambda written in Python3.7 to support creation of transit gateway route via cloud formation
 
